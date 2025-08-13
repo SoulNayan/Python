@@ -11,7 +11,7 @@
 #discard()                        #remove the specified item
 #intersection()                   #return a set,that is the intersecion of two other set
 #intersection_update()            #remove the items in this set that are not present in other,specified set(s)
-#isdisjoint()                     #returns wjether two sets have a intersecton or not
+#isdisjoint()                     #returns whether two sets have a intersecton or not
 #issubset()                       #return whether another set contain this set or not
 #isuperset()                      #return whether another set contain this set or not
 #pop()                            #removes an element from the set
